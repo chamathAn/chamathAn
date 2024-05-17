@@ -78,4 +78,5 @@ Feel free to explore my portfolio to learn more about my work and journey - cham
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamathAn&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=chamathAn&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <br/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
