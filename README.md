@@ -1,8 +1,8 @@
 # Some of my recent work
 
-- [Safelora](https://github.com/hashankur/desktop-shell) - A realtime multimodal multiagent adivisory system for plant disease management through DPO
-- [File Share](https://github.com/hashankur/file-share) - A simple file sharing server on local network
-- [Portfolio](https://hashankur.pages.dev/)
+- [Safelora](https://github.com/chamathAn/safelora) - A realtime multimodal multiagent adivisory system for plant disease management through DPO
+- [File Share](https://github.com/chamathAn/File-Share) - A simple file sharing server on local network
+- [Portfolio](https://chamath.xyz/)
 - [Nova](https://github.com/lasanseniya/nova-web-app/) - a study-note generator automatically create structured study notes with summaries and cue questions for youtube videos.
 
 <br>
