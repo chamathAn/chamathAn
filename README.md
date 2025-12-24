@@ -5,11 +5,7 @@
 - [Portfolio](https://chamath.xyz/)
 - [Nova](https://github.com/lasanseniya/nova-web-app/) - a study-note generator automatically create structured study notes with summaries and cue questions for youtube videos.
 
-<br>
-
-
  <!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/660fa066da1671f986212599?variant=light&roadmaps=devops%2Cfull-stack%2Candroid%2Cdatastructures-and-algorithms)](https://roadmap.sh) -->
-
 
 <!--
 Here are some ideas to get you started:
