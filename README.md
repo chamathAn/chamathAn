@@ -7,17 +7,6 @@
 
 <br>
 
-<picture>
-  <source
-    srcset="https://github.com/hashankur/hashankur/raw/grs/langs-github_dark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github.com/hashankur/hashankur/raw/grs/langs-catppuccin_latte.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github.com/UlyssesZh/UlyssesZh/raw/grs/langs-light.svg" />
-</picture>
 
  <!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/660fa066da1671f986212599?variant=light&roadmaps=devops%2Cfull-stack%2Candroid%2Cdatastructures-and-algorithms)](https://roadmap.sh) -->
 
