@@ -1,9 +1,9 @@
 # Some of my recent work
 
-- [Safelora](https://github.com/chamathAn/safelora) - A realtime multimodal multiagent adivisory system for plant disease management through DPO
+- [Safelora](https://github.com/chamathAn/safelora) - A realtime multimodal multiagent adivisory system for plant disease management through DPO (Ongoing)
 - [File Share](https://github.com/chamathAn/File-Share) - A simple file sharing server on local network
 - [Portfolio](https://chamath.xyz/)
-- [Nova](https://github.com/lasanseniya/nova-web-app/) - a study-note generator automatically create structured study notes with summaries and cue questions for youtube videos.
+- [Nova](https://github.com/lasanseniya/nova-web-app/) - A study-note generator automatically create structured study notes with summaries and cue questions for youtube videos.
 
  <!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/660fa066da1671f986212599?variant=light&roadmaps=devops%2Cfull-stack%2Candroid%2Cdatastructures-and-algorithms)](https://roadmap.sh) -->
 
